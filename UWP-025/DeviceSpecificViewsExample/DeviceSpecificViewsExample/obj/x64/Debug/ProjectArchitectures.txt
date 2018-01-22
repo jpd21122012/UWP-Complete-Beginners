@@ -1,0 +1,1 @@
+E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-025\DeviceSpecificViewsExample\DeviceSpecificViewsExample\DeviceSpecificViewsExample.csproj;x64

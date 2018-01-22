@@ -1,0 +1,1 @@
+E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-014\ControlsExamplePart1\ControlsExamplePart1\ControlsExamplePart1.csproj;x64

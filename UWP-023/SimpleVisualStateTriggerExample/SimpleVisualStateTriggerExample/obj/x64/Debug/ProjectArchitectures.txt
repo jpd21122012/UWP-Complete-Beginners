@@ -1,0 +1,1 @@
+E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-023\SimpleVisualStateTriggerExample\SimpleVisualStateTriggerExample\SimpleVisualStateTriggerExample.csproj;x64

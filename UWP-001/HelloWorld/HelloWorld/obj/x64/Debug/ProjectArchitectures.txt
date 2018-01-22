@@ -1,0 +1,1 @@
+E:\Visual Studio 2017\Projects\UWP-AbsoluteBeginners\UWP-001\HelloWorld\HelloWorld\HelloWorld.csproj;x64

@@ -1,0 +1,1 @@
+E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-029\Adaptly Challenge FakeNews\FakeNews\FakeNews.csproj;x64

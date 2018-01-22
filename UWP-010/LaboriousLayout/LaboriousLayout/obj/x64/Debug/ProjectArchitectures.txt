@@ -1,0 +1,1 @@
+E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-010\LaboriousLayout\LaboriousLayout\LaboriousLayout.csproj;x64

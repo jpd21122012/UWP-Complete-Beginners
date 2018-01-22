@@ -1,0 +1,1 @@
+E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-021\ThemeResources\ThemeResources\ThemeResources.csproj;x64

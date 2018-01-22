@@ -1,0 +1,1 @@
+E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-012\SplitViewExample\SplitViewExample\SplitViewExample.csproj;x64

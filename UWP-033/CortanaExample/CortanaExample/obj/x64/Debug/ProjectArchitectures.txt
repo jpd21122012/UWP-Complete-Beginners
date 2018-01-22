@@ -1,0 +1,1 @@
+E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-033\CortanaExample\CortanaExample\CortanaExample.csproj;x64
