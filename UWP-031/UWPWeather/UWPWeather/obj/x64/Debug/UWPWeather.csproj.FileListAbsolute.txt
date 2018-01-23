@@ -197,3 +197,6 @@ E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeat
 E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\obj\x64\Debug\qualifiers.txt.intermediate
 E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
 E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\obj\x64\Debug\ProjectArchitectures.txt
+E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\bin\x64\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\bin\x64\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\obj\x64\Debug\UWPWeather.csproj.GenerateResource.Cache

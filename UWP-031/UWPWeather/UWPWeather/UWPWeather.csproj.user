@@ -4,4 +4,15 @@
     <DeviceId>30F105C9-681E-420b-A277-7C086EAD8A4E</DeviceId>
     <UseEmulator>true</UseEmulator>
   </PropertyGroup>
+  <PropertyGroup>
+    <Source>E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\Assets\Weather.png</Source>
+    <SmallTileSource>E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\Assets\Weather.png</SmallTileSource>
+    <MediumTileSource>E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\Assets\Weather.png</MediumTileSource>
+    <WideTileSource>E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\Assets\Weather.png</WideTileSource>
+    <LargeTileSource>E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\Assets\Weather.png</LargeTileSource>
+    <AppIconSource>E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\Assets\Weather.png</AppIconSource>
+    <SplashScreenSource>E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\Assets\Weather.png</SplashScreenSource>
+    <PackageLogoSource>E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\Assets\Weather.png</PackageLogoSource>
+    <BadgeLogoSource>E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\Assets\Weather.png</BadgeLogoSource>
+  </PropertyGroup>
 </Project>

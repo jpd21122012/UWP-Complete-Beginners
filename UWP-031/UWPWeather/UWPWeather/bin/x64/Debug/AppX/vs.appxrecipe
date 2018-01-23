@@ -19,7 +19,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
     <LayoutDir>E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\bin\x64\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>7740E934FD5C95F9CFFDF5973F924B12C04A1E3C1E7C56629BD7C1DBCF1A5698</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>CDBF1EC311192550493FB4891809D520ABBB8471BA735EA9464A93EE0A4CAA6F</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>950edd26-a56c-4eeb-950c-9f39063282f8_1.0.0.0_x64__g3xqwmwwx8q06</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>950edd26-a56c-4eeb-950c-9f39063282f8_g3xqwmwwx8q06!App</RegisteredUserModeAppID>
     <RegisteredPackageID>950edd26-a56c-4eeb-950c-9f39063282f8</RegisteredPackageID>
@@ -31,13 +31,13 @@
     <AppXManifest Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\bin\x64\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-01-22T07:49:37.940</Modified>
+      <Modified>2018-01-23T00:00:33.057</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\bin\x64\Debug\UWPWeather.exe">
       <PackagePath>entrypoint\UWPWeather.exe</PackagePath>
-      <Modified>2018-01-22T07:49:37.170</Modified>
+      <Modified>2018-01-23T00:00:29.798</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\slipk\.nuget\packages\microsoft.applicationinsights\1.0.0\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.dll">
       <PackagePath>Microsoft.ApplicationInsights.dll</PackagePath>
@@ -110,6 +110,10 @@
     <AppxPackagedFile Include="C:\Users\slipk\.nuget\packages\microsoft.netcore.portable.compatibility\1.0.0\lib\netcore50\System.dll">
       <PackagePath>System.dll</PackagePath>
       <Modified>2015-07-23T04:06:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\slipk\.nuget\packages\microsoft.toolkit.uwp.notifications\1.2.0\lib\uap10.0\Microsoft.Toolkit.Uwp.Notifications.dll">
+      <PackagePath>Microsoft.Toolkit.Uwp.Notifications.dll</PackagePath>
+      <Modified>2016-11-15T23:24:58.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\slipk\.nuget\packages\microsoft.visualbasic\10.0.0\lib\netcore50\Microsoft.VisualBasic.dll">
       <PackagePath>Microsoft.VisualBasic.dll</PackagePath>
@@ -475,6 +479,80 @@
       <PackagePath>ApplicationInsights.config</PackagePath>
       <Modified>2018-01-22T02:30:15.826</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\Assets\BadgeLogo.scale-400.png">
+      <PackagePath>Assets\BadgeLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-01-22T22:56:44.528</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\Assets\LargeTile.scale-100.png">
+      <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-01-22T22:45:27.750</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\Assets\LargeTile.scale-200.png">
+      <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-01-22T22:45:27.850</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\Assets\SmallTile.scale-100.png">
+      <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-01-22T22:45:27.058</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\Assets\SmallTile.scale-200.png">
+      <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-01-22T22:45:27.109</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\Assets\SmallTile.scale-400.png">
+      <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-01-22T22:45:27.178</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-01-22T22:45:28.635</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-01-22T22:45:28.852</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\Assets\SplashScreen.scale-400.png">
+      <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-01-22T22:45:29.293</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\Assets\Square150x150Logo.scale-400.png">
+      <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-01-22T22:45:27.434</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\Assets\Square44x44Logo.scale-400.png">
+      <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-01-22T22:45:28.251</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-01-22T22:45:29.322</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\Assets\StoreLogo.scale-200.png">
+      <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-01-22T22:45:29.368</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\Assets\StoreLogo.scale-400.png">
+      <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-01-22T22:45:29.422</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\Assets\Weather.png">
+      <PackagePath>Assets\Weather.png</PackagePath>
+      <Modified>2018-01-22T22:44:34.160</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\Assets\Weather\01d.png">
       <PackagePath>Assets\Weather\01d.png</PackagePath>
       <Modified>2018-01-22T02:30:17.636</Modified>
@@ -547,39 +625,20 @@
       <PackagePath>Assets\Weather\50n.png</PackagePath>
       <Modified>2018-01-22T02:30:19.379</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\Assets\LockScreenLogo.scale-200.png">
-      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2018-01-22T02:30:16.771</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\Assets\SplashScreen.scale-200.png">
-      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+    <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-01-22T02:30:16.893</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\Assets\Square150x150Logo.scale-200.png">
-      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-01-22T02:30:17.058</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\Assets\Square44x44Logo.scale-200.png">
-      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-01-22T02:30:17.158</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
-      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-01-22T02:30:17.248</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\Assets\StoreLogo.png">
-      <PackagePath>Assets\StoreLogo.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-01-22T02:30:17.360</Modified>
+      <Modified>2018-01-22T22:45:27.481</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-01-22T02:30:17.503</Modified>
+      <Modified>2018-01-22T22:45:27.565</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\Assets\Wide310x150Logo.scale-400.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-01-22T22:45:27.703</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
@@ -596,11 +655,11 @@
     <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\bin\x64\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-01-22T05:06:15.288</Modified>
+      <Modified>2018-01-23T00:00:32.432</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\bin\x64\Debug\Core\UWPWeather.exe">
       <PackagePath>UWPWeather.exe</PackagePath>
-      <Modified>2018-01-22T07:49:37.937</Modified>
+      <Modified>2018-01-23T00:00:33.044</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

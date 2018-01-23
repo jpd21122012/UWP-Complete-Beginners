@@ -82,6 +82,9 @@
     <AppxPackagedFile Include="C:\Users\slipk\.nuget\packages\microsoft.netcore.portable.compatibility\1.0.0\lib\netcore50\System.dll">
       <PackagePath>System.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\slipk\.nuget\packages\microsoft.toolkit.uwp.notifications\1.2.0\lib\uap10.0\Microsoft.Toolkit.Uwp.Notifications.dll">
+      <PackagePath>Microsoft.Toolkit.Uwp.Notifications.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\slipk\.nuget\packages\microsoft.visualbasic\10.0.0\lib\netcore50\Microsoft.VisualBasic.dll">
       <PackagePath>Microsoft.VisualBasic.dll</PackagePath>
     </AppxPackagedFile>
@@ -355,6 +358,65 @@
     <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\ApplicationInsights.config">
       <PackagePath>ApplicationInsights.config</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\Assets\BadgeLogo.scale-400.png">
+      <PackagePath>Assets\BadgeLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\Assets\LargeTile.scale-100.png">
+      <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\Assets\LargeTile.scale-200.png">
+      <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\Assets\SmallTile.scale-100.png">
+      <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\Assets\SmallTile.scale-200.png">
+      <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\Assets\SmallTile.scale-400.png">
+      <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\Assets\SplashScreen.scale-400.png">
+      <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\Assets\Square150x150Logo.scale-400.png">
+      <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\Assets\Square44x44Logo.scale-400.png">
+      <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\Assets\StoreLogo.scale-200.png">
+      <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\Assets\StoreLogo.scale-400.png">
+      <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\Assets\Weather.png">
+      <PackagePath>Assets\Weather.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\Assets\Weather\01d.png">
       <PackagePath>Assets\Weather\01d.png</PackagePath>
     </AppxPackagedFile>
@@ -409,31 +471,16 @@
     <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\Assets\Weather\50n.png">
       <PackagePath>Assets\Weather\50n.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\Assets\LockScreenLogo.scale-200.png">
-      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\Assets\SplashScreen.scale-200.png">
-      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\Assets\Square150x150Logo.scale-200.png">
-      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\Assets\Square44x44Logo.scale-200.png">
-      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
-      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\Assets\StoreLogo.png">
-      <PackagePath>Assets\StoreLogo.png</PackagePath>
+    <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\Assets\Wide310x150Logo.scale-400.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-031\UWPWeather\UWPWeather\Properties\Default.rd.xml">

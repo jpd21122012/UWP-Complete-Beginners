@@ -14,6 +14,7 @@ using Windows.UI.Xaml.Input;
 using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Media.Imaging;
 using Windows.UI.Xaml.Navigation;
+using Microsoft.Toolkit.Uwp.Notifications;
 
 // The Blank Page item template is documented at http://go.microsoft.com/fwlink/?LinkId=402352&clcid=0x409
 
@@ -59,12 +60,49 @@ namespace UWPWeather
                 TempTextBlock.Text = ((int)myWeather.main.temp).ToString();
                 DescriptionTextBlock.Text = myWeather.weather[0].description;
                 LocationTextBlock.Text = myWeather.name;
+                ///Toast Notification
+                //Construct the visuals of the toast
+                ToastContent content = new ToastContent()
+                {
+                    Visual = new ToastVisual()
+                    {
+                        BindingGeneric = new ToastBindingGeneric()
+                        {
+                            Children =
+                    {
+                        new AdaptiveText()
+                        {
+                            Text = "Hello, this is your weather"
+                        },
+
+                        new AdaptiveText()
+                        {
+                            Text = myWeather.name+" - "+ ((int)myWeather.main.temp)+" - "+ myWeather.weather[0].description
+                        },
+
+                        new AdaptiveImage()
+                        {
+                            Source = icon
+                        }
+                    }/*,
+
+                        AppLogoOverride = new ToastGenericAppLogo()
+                        {
+                            Source = logo,
+                            HintCrop = ToastGenericAppLogoCrop.Circle
+                        }*/
+                        }
+                    }
+                };
+
+                ToastNotificationManager.CreateToastNotifier().Show(new ToastNotification(content.GetXml()));
+                /// 
+
             }
             catch
             {
                 LocationTextBlock.Text = "Unable to get weather at this time.";
             }
-
         }
     }
 }
