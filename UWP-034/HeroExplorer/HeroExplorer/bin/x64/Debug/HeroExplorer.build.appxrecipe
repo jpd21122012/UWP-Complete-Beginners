@@ -355,18 +355,44 @@
     <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-034\HeroExplorer\HeroExplorer\ApplicationInsights.config">
       <PackagePath>ApplicationInsights.config</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-034\HeroExplorer\HeroExplorer\VoiceCommandDictionary.xml">
-      <PackagePath>VoiceCommandDictionary.xml</PackagePath>
+    <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-034\HeroExplorer\HeroExplorer\Assets\LargeTile.scale-400.png">
+      <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-034\HeroExplorer\HeroExplorer\Properties\Default.rd.xml">
-      <PackagePath>Properties\Default.rd.xml</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-034\HeroExplorer\HeroExplorer\Assets\LockScreenLogo.scale-200.png">
-      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+    <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-034\HeroExplorer\HeroExplorer\Assets\SmallTile.scale-400.png">
+      <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-034\HeroExplorer\HeroExplorer\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-034\HeroExplorer\HeroExplorer\Assets\Square150x150Logo.scale-400.png">
+      <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-034\HeroExplorer\HeroExplorer\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-034\HeroExplorer\HeroExplorer\Assets\Square44x44Logo.scale-400.png">
+      <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-034\HeroExplorer\HeroExplorer\Assets\Square44x44Logo.targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-034\HeroExplorer\HeroExplorer\Assets\StoreLogo.scale-400.png">
+      <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-034\HeroExplorer\HeroExplorer\Assets\Wide310x150Logo.scale-400.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-034\HeroExplorer\HeroExplorer\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-034\HeroExplorer\HeroExplorer\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
@@ -380,13 +406,15 @@
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-034\HeroExplorer\HeroExplorer\Assets\StoreLogo.png">
-      <PackagePath>Assets\StoreLogo.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-034\HeroExplorer\HeroExplorer\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-034\HeroExplorer\HeroExplorer\VoiceCommandDictionary.xml">
+      <PackagePath>VoiceCommandDictionary.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-034\HeroExplorer\HeroExplorer\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Visual Studio 2017\Projects\UWP Complete Beginners\UWP-034\HeroExplorer\HeroExplorer\bin\x64\Debug\HeroExplorer.xr.xml">
       <PackagePath>HeroExplorer.xr.xml</PackagePath>

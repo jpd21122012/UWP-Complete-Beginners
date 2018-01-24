@@ -4,4 +4,14 @@
     <DeviceId>30F105C9-681E-420b-A277-7C086EAD8A4E</DeviceId>
     <UseEmulator>true</UseEmulator>
   </PropertyGroup>
+  <PropertyGroup>
+    <Source>C:\Users\slipk\Desktop\Marvel.png</Source>
+    <SmallTileSource>C:\Users\slipk\Desktop\Marvel.png</SmallTileSource>
+    <MediumTileSource>C:\Users\slipk\Desktop\Marvel.png</MediumTileSource>
+    <WideTileSource>C:\Users\slipk\Desktop\Marvel.png</WideTileSource>
+    <LargeTileSource>C:\Users\slipk\Desktop\Marvel.png</LargeTileSource>
+    <AppIconSource>C:\Users\slipk\Desktop\Marvel.png</AppIconSource>
+    <SplashScreenSource>C:\Users\slipk\Desktop\Marvel.png</SplashScreenSource>
+    <PackageLogoSource>C:\Users\slipk\Desktop\Marvel.png</PackageLogoSource>
+  </PropertyGroup>
 </Project>

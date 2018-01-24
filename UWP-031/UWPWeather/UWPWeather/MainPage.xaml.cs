@@ -96,8 +96,6 @@ namespace UWPWeather
                 };
 
                 ToastNotificationManager.CreateToastNotifier().Show(new ToastNotification(content.GetXml()));
-                /// 
-
             }
             catch
             {
